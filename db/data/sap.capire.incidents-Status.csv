@@ -1,0 +1,7 @@
+code,descr,criticality,name
+N,New Incident,3,New
+A,Assigned to Agent,2,Assigned
+I,Work in Progress,2,In Process
+H,Waiting for Customer,3,On Hold
+R,Issue Resolved,2,Resolved
+C,Ticket Closed,4,Closed
